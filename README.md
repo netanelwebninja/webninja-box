@@ -37,8 +37,8 @@ $ vagrant up
 
 ### Goodied Pre Packed for You
 **Based on Ubuntu 16.04.1**
-| Plugin | Version | Info |
-| ------ | ------ | ------ |
+| Name        | Version           | Info  |
+| ------------- |:-------------:| -----:|
 | OS Packages | latest | `build-essential tcl curl fail2ban gcc git vim libmcrypt4 libpcre3-dev make python2.7 python-pip sendmail supervisor ufw unattended-upgrades unzip whois zsh` |
 | PHP | 7.2.0 | **Packages:** `php7.2-cli php7.2-dev php7.2-fpm php7.2-pgsql php7.2-sqlite3 php7.2-gd php7.2-curl php7.2-memcached php7.2-imap php7.2-mysql php7.2-mbstring php7.2-xml php7.2-zip php7.2-bcmath php7.2-soap php7.2-intl php7.2-readline` |
 | Composer | 1.5.5 | Installed globallay |
